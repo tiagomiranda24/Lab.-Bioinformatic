@@ -1,0 +1,324 @@
+LOCUS       GOLI_HUMAN               419 aa            linear   PRI 08-NOV-2023
+DEFINITION  RecName: Full=E3 ubiquitin-protein ligase RNF130; AltName:
+            Full=Goliath homolog; Short=H-Goliath; AltName: Full=RING finger
+            protein 130; AltName: Full=RING-type E3 ubiquitin transferase
+            RNF130; Flags: Precursor.
+ACCESSION   Q86XS8
+VERSION     Q86XS8.1
+DBSOURCE    UniProtKB: locus GOLI_HUMAN, accession Q86XS8;
+            class: standard.
+            extra accessions:J3KN31,Q32P32,Q59EL1,Q641P9,Q6P177,Q7L2U2,Q9P0J9
+            created: Dec 21, 2004.
+            sequence updated: Jun 1, 2003.
+            annotation updated: Nov 8, 2023.
+            xrefs: AY083998.1, AAM08686.1, AB209800.1, BAD93037.1, AC010285.4,
+            AC026413.5, AC122713.2, CH471165.2, EAW53773.1, BC017100.1,
+            AAH17100.2, BC065244.1, AAH65244.1, BC082267.1, AAH82267.1,
+            BC108306.1, AAI08307.1, AF155650.1, AAF67007.1, NP_001267730.1,
+            NP_060904.2
+            xrefs (non-sequence databases): CCDS:CCDS4451.1, CCDS:CCDS64340.1,
+            AlphaFoldDB:Q86XS8, SMR:Q86XS8, BioGRID:120928, IntAct:Q86XS8,
+            MINT:Q86XS8, STRING:9606.ENSP00000430237, GlyCosmos:Q86XS8,
+            GlyGen:Q86XS8, iPTMnet:Q86XS8, PhosphoSitePlus:Q86XS8,
+            BioMuta:RNF130, DMDM:56749089, EPD:Q86XS8, jPOST:Q86XS8,
+            MassIVE:Q86XS8, MaxQB:Q86XS8, PaxDb:9606-ENSP00000430237,
+            PeptideAtlas:Q86XS8, ProteomicsDB:70329, Antibodypedia:2993,
+            DNASU:55819, Ensembl:ENST00000261947.4, Ensembl:ENSP00000261947.4,
+            Ensembl:ENSG00000113269.14, Ensembl:ENST00000521389.6,
+            Ensembl:ENSP00000430237.1, GeneID:55819, KEGG:hsa:55819,
+            MANE-Select:ENST00000521389.6, UCSC:uc003mll.2, AGR:HGNC:18280,
+            CTD:55819, DisGeNET:55819, GeneCards:RNF130, HGNC:18280,
+            HPA:ENSG00000113269, MIM:619163, neXtProt:NX_Q86XS8,
+            OpenTargets:ENSG00000113269, PharmGKB:PA134871556,
+            VEuPathDB:HostDB:ENSG00000113269, eggNOG:KOG0800,
+            GeneTree:ENSGT00940000157465, HOGENOM:CLU_049885_2_1_1,
+            InParanoid:Q86XS8, OMA:NADEAEW, OrthoDB:5474929at2759,
+            PhylomeDB:Q86XS8, TreeFam:TF317486, PathwayCommons:Q86XS8,
+            Reactome:R-HSA-983168, SignaLink:Q86XS8, SIGNOR:Q86XS8,
+            UniPathway:UPA00143, BioGRID-ORCS:55819, ChiTaRS:RNF130,
+            GenomeRNAi:55819, Pharos:Q86XS8, PRO:PR:Q86XS8,
+            Proteomes:UP000005640, RNAct:Q86XS8, Bgee:ENSG00000113269,
+            ExpressionAtlas:Q86XS8, Genevisible:Q86XS8, GO:0005737, GO:0016020,
+            GO:0046872, GO:0061630, GO:0004842, GO:0006915, GO:0012501,
+            GO:0016567, GO:0006511, CDD:cd02122, CDD:cd16803,
+            Gene3D:3.50.30.30, Gene3D:3.30.40.10, InterPro:IPR046450,
+            InterPro:IPR003137, InterPro:IPR001841, InterPro:IPR013083,
+            PANTHER:PTHR46539, PANTHER:PTHR46539:SF2, Pfam:PF02225,
+            Pfam:PF13639, SMART:SM00184, SUPFAM:SSF52025, SUPFAM:SSF57850,
+            PROSITE:PS50089
+KEYWORDS    Alternative splicing; Apoptosis; Cytoplasm; Glycoprotein; Membrane;
+            Metal-binding; Phosphoprotein; Reference proteome; Signal;
+            Transferase; Transmembrane; Transmembrane helix; Ubl conjugation
+            pathway; Zinc; Zinc-finger.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 419)
+  AUTHORS   Guais,A., Solhonne,B., Melaine,N., Guellaen,G. and Bulle,F.
+  TITLE     Goliath, a ring-H2 mitochondrial protein, regulated by luteinizing
+            hormone/human chorionic gonadotropin in rat leydig cells
+  JOURNAL   Biol Reprod 70 (1), 204-213 (2004)
+   PUBMED   13679316
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1).
+REFERENCE   2  (residues 1 to 419)
+  AUTHORS   Totoki,Y., Toyoda,A., Takeda,T., Sakaki,Y., Tanaka,A., Yokoyama,S.,
+            Ohara,O., Nagase,T. and Kikuno,R.F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-MAR-2005) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).;
+            TISSUE=Brain
+REFERENCE   3  (residues 1 to 419)
+  AUTHORS   Schmutz,J., Martin,J., Terry,A., Couronne,O., Grimwood,J.,
+            Lowry,S., Gordon,L.A., Scott,D., Xie,G., Huang,W., Hellsten,U.,
+            Tran-Gyamfi,M., She,X., Prabhakar,S., Aerts,A., Altherr,M.,
+            Bajorek,E., Black,S., Branscomb,E., Caoile,C., Challacombe,J.F.,
+            Chan,Y.M., Denys,M., Detter,J.C., Escobar,J., Flowers,D.,
+            Fotopulos,D., Glavina,T., Gomez,M., Gonzales,E., Goodstein,D.,
+            Grigoriev,I., Groza,M., Hammon,N., Hawkins,T., Haydu,L., Israni,S.,
+            Jett,J., Kadner,K., Kimball,H., Kobayashi,A., Lopez,F., Lou,Y.,
+            Martinez,D., Medina,C., Morgan,J., Nandkeshwar,R., Noonan,J.P.,
+            Pitluck,S., Pollard,M., Predki,P., Priest,J., Ramirez,L.,
+            Retterer,J., Rodriguez,A., Rogers,S., Salamov,A., Salazar,A.,
+            Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N., Wheeler,J.,
+            Wu,K., Yang,J., Dickson,M., Cheng,J.F., Eichler,E.E., Olsen,A.,
+            Pennacchio,L.A., Rokhsar,D.S., Richardson,P., Lucas,S.M.,
+            Myers,R.M. and Rubin,E.M.
+  TITLE     The DNA sequence and comparative analysis of human chromosome 5
+  JOURNAL   Nature 431 (7006), 268-274 (2004)
+   PUBMED   15372022
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   4  (residues 1 to 419)
+  AUTHORS   Mural,R.J., Istrail,S., Sutton,G.G., Florea,L., Halpern,A.L.,
+            Mobarry,C.M., Lippert,R., Walenz,B., Shatkay,H., Dew,I.,
+            Miller,J.R., Flanigan,M.J., Edwards,N.J., Bolanos,R., Fasulo,D.,
+            Halldorsson,B.V., Hannenhalli,S., Turner,R., Yooseph,S., Lu,F.,
+            Nusskern,D.R., Shue,B.C., Zheng,X.H., Zhong,F., Delcher,A.L.,
+            Huson,D.H., Kravitz,S.A., Mouchard,L., Reinert,K., Remington,K.A.,
+            Clark,A.G., Waterman,M.S., Eichler,E.E., Adams,M.D.,
+            Hunkapiller,M.W., Myers,E.W. and Venter,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-SEP-2005) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   5  (residues 1 to 419)
+  AUTHORS   Gerhard,D.S., Wagner,L., Feingold,E.A., Shenmen,C.M., Grouse,L.H.,
+            Schuler,G., Klein,S.L., Old,S., Rasooly,R., Good,P., Guyer,M.,
+            Peck,A.M., Derge,J.G., Lipman,D., Collins,F.S., Jang,W., Sherry,S.,
+            Feolo,M., Misquitta,L., Lee,E., Rotmistrovsky,K., Greenhut,S.F.,
+            Schaefer,C.F., Buetow,K., Bonner,T.I., Haussler,D., Kent,J.,
+            Kiekhaus,M., Furey,T., Brent,M., Prange,C., Schreiber,K.,
+            Shapiro,N., Bhat,N.K., Hopkins,R.F., Hsie,F., Driscoll,T.,
+            Soares,M.B., Casavant,T.L., Scheetz,T.E., Brown-stein,M.J.,
+            Usdin,T.B., Toshiyuki,S., Carninci,P., Piao,Y., Dudekula,D.B.,
+            Ko,M.S., Kawakami,K., Suzuki,Y., Sugano,S., Gruber,C.E.,
+            Smith,M.R., Simmons,B., Moore,T., Waterman,R., Johnson,S.L.,
+            Ruan,Y., Wei,C.L., Mathavan,S., Gunaratne,P.H., Wu,J., Garcia,A.M.,
+            Hulyk,S.W., Fuh,E., Yuan,Y., Sneed,A., Kowis,C., Hodgson,A.,
+            Muzny,D.M., McPherson,J., Gibbs,R.A., Fahey,J., Helton,E.,
+            Ketteman,M., Madan,A., Rodrigues,S., Sanchez,A., Whiting,M.,
+            Madari,A., Young,A.C., Wetherby,K.D., Granite,S.J., Kwong,P.N.,
+            Brinkley,C.P., Pearson,R.L., Bouffard,G.G., Blakesly,R.W.,
+            Green,E.D., Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J.,
+            Myers,R.M., Butterfield,Y.S., Griffith,M., Griffith,O.L.,
+            Krzywinski,M.I., Liao,N., Morin,R., Palmquist,D., Petrescu,A.S.,
+            Skalska,U., Smailus,D.E., Stott,J.M., Schnerch,A., Schein,J.E.,
+            Jones,S.J., Holt,R.A., Baross,A., Marra,M.A., Clifton,S.,
+            Makowski,K.A., Bosak,S. and Malek,J.
+  CONSRTM   MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC)
+  JOURNAL   Genome Res 14 (10B), 2121-2127 (2004)
+   PUBMED   15489334
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1).;
+            TISSUE=Eye, Lung {ECO:0000312|EMBL:AAH17100.2}, Mammary gland
+            {ECO:0000312|EMBL:AAH82267.1}, and Skin
+            {ECO:0000312|EMBL:AAH65244.1}
+            Erratum:[Genome Res. 2006 Jun;16(6):804. Morrin, Ryan [corrected to
+            Morin, Ryan]]
+REFERENCE   6  (residues 1 to 419)
+  AUTHORS   Gu,J., Fu,S., Ren,S., Jin,W., Gu,Y., Huang,Q., Dong,H., Yu,Y.,
+            Fu,G., Wang,Y., Chen,Z. and Han,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-MAY-2000) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] OF 103-419 (ISOFORM 1).;
+            TISSUE=Adrenal gland {ECO:0000312|EMBL:AAF67007.1}
+REFERENCE   7  (residues 1 to 419)
+  AUTHORS   Guais,A., Siegrist,S., Solhonne,B., Jouault,H., Guellaen,G. and
+            Bulle,F.
+  TITLE     h-Goliath, paralog of GRAIL, is a new E3 ligase protein, expressed
+            in human leukocytes
+  JOURNAL   Gene 374, 112-120 (2006)
+   PUBMED   16549277
+  REMARK    FUNCTION, CATALYTIC ACTIVITY, PATHWAY, SUBCELLULAR LOCATION, TISSUE
+            SPECIFICITY, AND LACK OF GLYCOSYLATION.
+REFERENCE   8  (residues 1 to 419)
+  AUTHORS   Chen,R., Jiang,X., Sun,D., Han,G., Wang,F., Ye,M., Wang,L. and
+            Zou,H.
+  TITLE     Glycoproteomics analysis of human liver tissue by combination of
+            multiple enzyme digestion and hydrazide chemistry
+  JOURNAL   J Proteome Res 8 (2), 651-661 (2009)
+   PUBMED   19159218
+  REMARK    GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-40.;
+            TISSUE=Liver
+REFERENCE   9  (residues 1 to 419)
+  AUTHORS   Mayya,V., Lundgren,D.H., Hwang,S.I., Rezaul,K., Wu,L., Eng,J.K.,
+            Rodionov,V. and Han,D.K.
+  TITLE     Quantitative phosphoproteomic analysis of T cell receptor signaling
+            reveals system-wide modulation of protein-protein interactions
+  JOURNAL   Sci Signal 2 (84), ra46 (2009)
+   PUBMED   19690332
+  REMARK    PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-341, AND
+            IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].;
+            TISSUE=Leukemic T-cell
+            Publication Status: Online-Only
+COMMENT     On or before Sep 5, 2014 this sequence version replaced
+            gi:74741116, gi:121948384.
+            [FUNCTION] May have a role during the programmed cell death of
+            hematopoietic cells (By similarity). Acts as an E3
+            ubiquitin-protein ligase. {ECO:0000250,
+            ECO:0000269|PubMed:16549277}.
+            [CATALYTIC ACTIVITY] Reaction=S-ubiquitinyl-[E2
+            ubiquitin-conjugating enzyme]-L-cysteine + [acceptor
+            protein]-L-lysine = [E2 ubiquitin-conjugating enzyme]-L-cysteine +
+            N(6)-ubiquitinyl-[acceptor protein]-L-lysine.; EC=2.3.2.27;
+            Evidence={ECO:0000269|PubMed:16549277}.
+            [PATHWAY] Protein modification; protein ubiquitination.
+            {ECO:0000269|PubMed:16549277}.
+            [SUBCELLULAR LOCATION] Membrane {ECO:0000305}; Single-pass type I
+            membrane protein {ECO:0000305}. Cytoplasm
+            {ECO:0000269|PubMed:16549277}.
+            [ALTERNATIVE PRODUCTS] Event=Alternative splicing; Named
+            isoforms=2; Name=1; IsoId=Q86XS8-1; Sequence=Displayed; Name=2;
+            IsoId=Q86XS8-2; Sequence=VSP_055642, VSP_055643.
+            [TISSUE SPECIFICITY] Ubiquitously expressed. Highly expressed in
+            leukocytes. Not expressed in erythroblasts.
+            {ECO:0000269|PubMed:16549277}.
+            [PTM] In vivo measurements suggest this protein is glycosylated
+            (PubMed:19159218). In contrast, in vitro experiments failed to
+            detect glycosylation (PubMed:16549277).
+            {ECO:0000269|PubMed:16549277, ECO:0000269|PubMed:19159218}.
+            [SEQUENCE CAUTION] Sequence=AAF67007.1; Type=Frameshift;
+            Evidence={ECO:0000305}; Sequence=BAD93037.1; Type=Erroneous
+            initiation; Note=Extended N-terminus.; Evidence={ECO:0000305}.
+FEATURES             Location/Qualifiers
+     source          1..419
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     gene            1..419
+                     /gene="RNF130"
+     Protein         1..419
+                     /product="E3 ubiquitin-protein ligase RNF130"
+                     /EC_number="2.3.2.27"
+                     /note="Goliath homolog; RING finger protein 130; RING-type
+                     E3 ubiquitin transferase RNF130; H-Goliath"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..27
+                     /region_name="Signal"
+                     /note="/evidence=ECO:0000255."
+     Region          28..419
+                     /region_name="Mature chain"
+                     /note="E3 ubiquitin-protein ligase RNF130.
+                     /id=PRO_0000030718."
+     Region          28..194
+                     /region_name="Topological domain"
+                     /note="Extracellular. /evidence=ECO:0000255."
+     Site            29
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255."
+     Region          40..179
+                     /region_name="PA_GRAIL_like"
+                     /note="PA _GRAIL_like: Protease-associated (PA) domain
+                     GRAIL-like. This group includes PA domain containing E3
+                     (ubiquitin ligases) similar to human GRAIL (gene related
+                     to anergy in lymphocytes) protein. Proteins in this group
+                     contain a C3H2C3 RING finger. E3...; cd02122"
+                     /db_xref="CDD:239037"
+     Site            40
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:19159218."
+     Region          105..176
+                     /region_name="Domain"
+                     /note="PA."
+     Site            112
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255."
+     Region          114
+                     /region_name="Conflict"
+                     /note="T -> A (in Ref. 5; AAH65244).
+                     /evidence=ECO:0000305."
+     Region          134
+                     /region_name="Conflict"
+                     /note="N -> T (in Ref. 6; AAF67007).
+                     /evidence=ECO:0000305."
+     Site            135
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255."
+     Site            140..142
+                     /site_type="other"
+                     /note="PA/protease or protease-like domain interface
+                     [polypeptide binding]"
+                     /db_xref="CDD:239037"
+     Region          141
+                     /region_name="Conflict"
+                     /note="P -> N (in Ref. 5; AAH82267).
+                     /evidence=ECO:0000305."
+     Site            172
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255."
+     Site            189
+                     /site_type="glycosylation"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255."
+     Region          195..217
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Region          <197..>306
+                     /region_name="HRD1"
+                     /note="HRD ubiquitin ligase complex, ER membrane component
+                     [Posttranslational modification, protein turnover,
+                     chaperones]; COG5243"
+                     /db_xref="CDD:227568"
+     Region          218..419
+                     /region_name="Topological domain"
+                     /note="Cytoplasmic. /evidence=ECO:0000255."
+     Region          262..310
+                     /region_name="RING-H2_RNF130"
+                     /note="RING finger, H2 subclass, found in RING finger
+                     protein 130 (RNF130) and similar proteins; cd16803"
+                     /db_xref="CDD:319717"
+     Region          264..305
+                     /region_name="Zinc finger region"
+                     /note="RING-type.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00175."
+     Site            order(264,267,282,284,287,290,301,304)
+                     /site_type="other"
+                     /note="Zn binding site [ion binding]"
+                     /db_xref="CDD:319717"
+     Site            341
+                     /site_type="phosphorylation"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:19690332."
+     Region          384
+                     /region_name="Splicing variant"
+                     /note="K -> R (in isoform 2). /evidence=ECO:0000303|Ref.2.
+                     /id=VSP_055642."
+     Region          385..419
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 2).
+                     /evidence=ECO:0000303|Ref.2. /id=VSP_055643."
+ORIGIN      
+        1 mscagragpa rlaalalltc slwparadna sqeyytalin vtvqepgrga pltfridrgr
+       61 ygldspkaev rgqvlaplpl hgvadhlgcd pqtrffvppn ikqwiallqr gnctfkekis
+      121 raafhnavav viynnkskee pvtmthpgtg diiavmitel rgkdilsyle knisvqmtia
+      181 vgtrmppknf srgslvfvsi sfivlmiiss awlifyfiqk irytnardrn qrrlgdaakk
+      241 aisklttrtv kkgdketdpd fdhcavcies ykqndvvril pckhvfhksc vdpwlsehct
+      301 cpmcklnilk algivpnlpc tdnvafdmer ltrtqavnrr salgdlagdn slgleplrts
+      361 gisplpqdge ltprtgeini avtkewfiia sfgllsaltl cymiiratas lnanevewf
+//
+
